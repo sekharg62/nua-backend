@@ -26,7 +26,7 @@ const allowedOrigins = process.env.ALLOWED_ORIGINS
       'http://localhost:5173',
       'http://localhost:3000',
       'http://localhost:5000',
-      'https://nua-frontend.netlify.app'
+      'https://nua-frontend-eosin.vercel.app'
       
     ];
 
